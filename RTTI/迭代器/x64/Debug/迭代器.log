@@ -1,0 +1,12 @@
+﻿  源.cpp
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(10,1): error C2059: 语法错误:“:”
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(10,1): error C2334: “:”的前面有意外标记；跳过明显的函数体
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(14,10): error C4596: “{ctor}”: 成员声明中的非法限定名
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(14,10): error C2535: “MyClass::MyClass(void)”: 已经定义或声明成员函数
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(7): message : 参见“MyClass::MyClass”的声明
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(18,11): error C4596: “{dtor}”: 成员声明中的非法限定名
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(18,11): error C2535: “MyClass::~MyClass(void)”: 已经定义或声明成员函数
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(8): message : 参见“MyClass::~MyClass”的声明
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(23,7): error C2059: 语法错误:“using namespace”
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(23,20): error C2238: 意外的标记位于“;”之前
+F:\share\winProgram\WindowdailyCode\RTTI\迭代器\源.cpp(66,1): fatal error C1004: 发现意外的文件尾

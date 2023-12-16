@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+
+
 template<typename Iterator, typename T>
 struct accumulate_block
 {
@@ -10,7 +14,7 @@ struct accumulate_block
 template<typename Iterator, typename T>
 T parallel_accumulate(Iterator first, Iterator last, T init)
 {
-	unsigned long const length = std::distance(first, last);
+	unsigned long const length = std::distance(first, last);//计算两个迭代器之间的长度
 
 	if (!length) // 1
 		return init;
@@ -32,8 +36,8 @@ T parallel_accumulate(Iterator first, Iterator last, T init)
 	for (unsigned long i = 0; i < (num_threads - 1); ++i)
 	{
 		Iterator block_end = block_start;
-		std::advance(block_end, block_size); // 6
-		threads[i] = std::thread( // 7
+		std::advance(block_end, block_size); // 6 迭代器前进到块的末尾
+		threads[i] = std::thread( // 7	
 			accumulate_block<Iterator, T>(),
 			block_start, block_end, std::ref(results[i]));
 		block_start = block_end; // #8

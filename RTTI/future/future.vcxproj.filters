@@ -9,28 +9,14 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="源文件\资源文件">
+    <Filter Include="资源文件">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="多线程同时调用future.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="创建多线程的实现.h">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="线程单独的数据.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="线程之间等待共享数据.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="计算范围的累加值和给定初始值.cpp">
-      <Filter>源文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

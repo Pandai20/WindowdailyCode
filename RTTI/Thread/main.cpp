@@ -2,6 +2,7 @@
 #include <thread>
 #include <chrono>
 #define DEBUG
+
 void threadFunction(int& num)
 {
 	num = 5;
@@ -9,8 +10,8 @@ void threadFunction(int& num)
 	std::this_thread::sleep_for(std::chrono::seconds(5));
 	std::cout << "I'm children going out" << std::endl;
 }
-void threadFunction1(){ std::cout << "I'm children two" << std::endl; }
-int main()
+void threadFunction1() { std::cout << "I'm children two" << std::endl; }
+int main1()
 {
 	int number = 10;
 	std::thread m_thread(threadFunction, std::ref(number));
