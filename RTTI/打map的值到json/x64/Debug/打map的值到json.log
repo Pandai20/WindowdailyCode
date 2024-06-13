@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Json::Value::Value(enum Json::ValueType)" (??0Value@Json@@QEAA@W4ValueType@1@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Json::Value::Value(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0Value@Json@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Json::Value::~Value(void)" (??1Value@Json@@QEAA@XZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: class Json::Value & __cdecl Json::Value::operator=(class Json::Value &&)" (??4Value@Json@@QEAAAEAV01@$$QEAV01@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: class Json::Value & __cdecl Json::Value::operator[](class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??AValue@Json@@QEAAAEAV01@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Json::Value::toStyledString(void)const " (?toStyledString@Value@Json@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)，函数 main 中引用了该符号
+..\lib\jsoncpp_static.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+F:\share\allProgram\WindowdailyCode\RTTI\x64\Debug\打map的值到json.exe : fatal error LNK1120: 6 个无法解析的外部命令

@@ -18,7 +18,7 @@
     <ClCompile Include="example\代理模式.cpp" />
     <ClCompile Include="example\迭代器模式.cpp" />
     <ClCompile Include="example\访问者模式.cpp" />
-    <ClCompile Include="example\观察者模式.cpp" />
+    <ClCompile Include="example\观察者模式Observer.cpp" />
     <ClCompile Include="example\建造者模式.cpp" />
     <ClCompile Include="example\解释器模式.cpp" />
     <ClCompile Include="example\命令模式.cpp" />

@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\share\flamingo\flamingo\flamingoserver\mysql-5.1.73-win32\mysql\mysql_com.h(243,13): error C3646: “fd”: 未知重写说明符
+F:\share\flamingo\flamingo\flamingoserver\mysql-5.1.73-win32\mysql\mysql_com.h(243,15): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\flamingo\flamingo\flamingoserver\mysql-5.1.73-win32\mysql\mysql_com.h(427,16): error C2065: “SOCKET”: 未声明的标识符
+F:\share\flamingo\flamingo\flamingoserver\mysql-5.1.73-win32\mysql\mysql_com.h(427,26): error C2146: 语法错误: 缺少“)”(在标识符“s”的前面)

@@ -1,0 +1,114 @@
+﻿  main.cpp
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\parser.h(26,7): error C2332: “class”: 缺少标记名
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\parser.h(26,7): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\parser.h(26,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\parser.h(26,27): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(16,1): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(18,1): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(20,7): error C2332: “class”: 缺少标记名
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(20,7): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(20,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\binary.h(20,27): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(16,8): error C2332: “struct”: 缺少标记名
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(16,8): warning C4099: “YAML::<unnamed-tag>”: 类型名称以前使用“class”现在使用的是“struct”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\parser.h(26): message : 参见“YAML::<unnamed-tag>”的声明
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(16,8): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(16,27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(16,27): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(17,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(17,35): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(17,52): error C2803: “operator ==”必须至少有一个类类型的形参
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(17,52): error C2805: 二进制“operator ==”的参数太少
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(18,35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(18,35): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(18,52): error C2803: “operator !=”必须至少有一个类类型的形参
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(18,52): error C2805: 二进制“operator !=”的参数太少
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(20,1): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(21,1): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\null.h(23,8): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(16,7): error C2332: “class”: 缺少标记名
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(16,7): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(16,36): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(16,36): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,23): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,23): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,8): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,1): error C2473: “operator <<”: 看起来像函数定义，但却没有参数列表。
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(58,53): error C2065: “stream”: 未声明的标识符
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(59,36): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(59,36): error C2059: 语法错误:“const”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(59,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(59,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,23): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,23): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,1): error C2473: “operator <<”: 看起来像函数定义，但却没有参数列表。
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,25): error C2374: “YAML::<<”: 重定义；多次初始化
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(64,53): error C2065: “stream”: 未声明的标识符
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(65,36): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(65,36): error C2059: 语法错误:“const”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(65,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(65,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,23): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,23): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,1): error C2473: “operator <<”: 看起来像函数定义，但却没有参数列表。
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,25): error C2374: “YAML::<<”: 重定义；多次初始化
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,53): error C2065: “stream”: 未声明的标识符
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,61): error C2062: 意外的类型“char”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\ostream_wrapper.h(70,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(33,1): error C2332: “class”: 缺少标记名
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(33,7): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(33,7): error C2059: 语法错误:“常数”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(33,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(33,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,15): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,15): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,8): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,17): error C2825: 'YAML::Emitter': 当后面跟“::”时必须为类或命名空间
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,26): error C2510: “Emitter”:“::”的左边必须是类/结构/联合
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,44): error C2065: “T”: 未声明的标识符
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,46): error C2146: 语法错误: 缺少“)”(在标识符“value”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(137,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,15): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,15): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,8): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,8): error C2374: “YAML::Emitter”: 重定义；多次初始化
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,17): error C2825: 'YAML::Emitter': 当后面跟“::”时必须为类或命名空间
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,26): error C2510: “Emitter”:“::”的左边必须是类/结构/联合
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,42): error C2065: “T”: 未声明的标识符
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,44): error C2146: 语法错误: 缺少“)”(在标识符“value”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(154,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,13): error C2825: 'YAML::Emitter': 当后面跟“::”时必须为类或命名空间
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,22): error C2510: “Emitter”:“::”的左边必须是类/结构/联合
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,44): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,44): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,1): error C2182: “SetStreamablePrecision”: 非法使用“void”类型
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,1): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,44): error C2059: 语法错误:“<”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,13): error C2825: 'YAML::Emitter': 当后面跟“::”时必须为类或命名空间
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,22): error C2510: “Emitter”:“::”的左边必须是类/结构/联合
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,44): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,44): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,1): error C2182: “SetStreamablePrecision”: 非法使用“void”类型
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,1): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,1): error C2766: 显式专用化；已定义“YAML::SetStreamablePrecision”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(191): message : 参见“SetStreamablePrecision”的前一个定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,44): error C2059: 语法错误:“<”
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(196,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,15): error C2988: 不可识别的模板声明/定义
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,15): error C2143: 语法错误: 缺少“;”(在“&”的前面)
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,8): error C7525: 内联变量至少需要 "/std:c++17"
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,1): error C2473: “operator <<”: 看起来像函数定义，但却没有参数列表。
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,17): error C2374: “YAML::<<”: 重定义；多次初始化
+F:\share\yaml\yaml-cpp\buildwin32\install\include\yaml-cpp\emitter.h(201,1): fatal error C1003: 错误计数超过 100；正在停止编译

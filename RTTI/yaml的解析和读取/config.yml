@@ -1,0 +1,14 @@
+﻿#name名字
+name: Tom Smith
+name11: 
+age: 3
+
+spouse:
+    name: Jane Smith
+    age: 25
+
+children:
+ - name: Jimmy Smith
+   age: 15
+ - name: Jenny Smith
+   age1: 12

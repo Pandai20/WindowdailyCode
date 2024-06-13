@@ -1,0 +1,15 @@
+
+syntax="proto3";
+option java_package="com.grpc";
+
+package TEST;
+
+//c-s
+message testrequest{
+	string name=1;
+	repeated string waihao=2;
+} 
+//s-c
+message getrespon{
+	bool code =1;
+}

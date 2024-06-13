@@ -1,0 +1,1 @@
+F:\share\workstation\ysp\trunk\third_party\grpc\grpc\buildWin32\third_party\protobuf\Release\protoc.exe --cpp_out=./ --proto_path=F:\share\workstation\ysp\trunk\proto\1.0 ccs_common_message.proto ccs_conference_message.proto ccs_gateway_message.proto
